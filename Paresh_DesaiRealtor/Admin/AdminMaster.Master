@@ -159,6 +159,8 @@
                                 </li>
                                  <li><a href="DreamHouse.aspx"><i class="menu-icon icon-home"></i>Pre-Constructions</a>
                                 </li>
+                                 <li><a href="AdminClientList.aspx"><i class="menu-icon icon-user"></i>Add Clients</a>
+                                </li>
                                 
                                   <li><a href="NewsLetterList.aspx?Id=0"><i class="menu-icon icon-home"></i>News Letter</a>
                                 </li>
